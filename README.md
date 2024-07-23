@@ -1,2 +1,7 @@
-# UM6P-Discord-Server
-This repository hosts documentation and resources related to the creation and management of the UM6P Discord Server. It includes permissions, guidelines, and other relevant information for administrators and members of the server.
+![Page 1](https://github.com/MeComeguy/UM6P-Discord-Server/blob/main/UM6P%20Discord%20Server_page-0001.jpg)
+![Page 2](https://github.com/MeComeguy/UM6P-Discord-Server/blob/main/UM6P%20Discord%20Server_page-0002.jpg)
+![Page 3](https://github.com/MeComeguy/UM6P-Discord-Server/blob/main/UM6P%20Discord%20Server_page-0003.jpg)
+![Page 4](https://github.com/MeComeguy/UM6P-Discord-Server/blob/main/UM6P%20Discord%20Server_page-0004.jpg)
+![Page 5](https://github.com/MeComeguy/UM6P-Discord-Server/blob/main/UM6P%20Discord%20Server_page-0005.jpg)
+![Page 6](https://github.com/MeComeguy/UM6P-Discord-Server/blob/main/UM6P%20Discord%20Server_page-0006.jpg)
+![Page 7](https://github.com/MeComeguy/UM6P-Discord-Server/blob/main/UM6P%20Discord%20Server_page-0007.jpg)
